@@ -1,3 +1,9 @@
+/* 
+Hyperlink icons with CSS by Jonas Arnklint 
+Documentation and examples:
+http://github.com/arnklint/Hyperlink-icons-with-CSS
+*/
+
 a[href$='.doc'], a[href$='.rtf'],
 a[href$='.txt'],
 a[href$='.xls'],
