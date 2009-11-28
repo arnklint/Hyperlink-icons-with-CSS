@@ -1,5 +1,5 @@
 # Intro
-This is a CSS "module" essentially consisting of an image (a sprite image) and a stylesheet for you to add nice little icons to the right of hyperlinks that lead to a file with a certain extension. Find examples in index.html.
+This is a CSS "module" essentially consisting of an image (a sprite image) and a stylesheet for you to add nice little icons to the right of hyperlinks that lead to a file with a certain extension. Find examples in index.html. Source and sprite image are about 16kb uncompressed unminified.
 
 # Installation
 
